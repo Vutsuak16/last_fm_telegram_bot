@@ -1,0 +1,5 @@
+Here are the details of your new API account.
+Application name	Telegram_Bot
+API key	419e77f212e197c24dc0e935be105898
+Shared secret	4c430d6c0e50b2f978db6127468ebc90
+Registered to	kaustuv_deolal
